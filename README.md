@@ -8,7 +8,7 @@ Amsterdam, Netherlands | paveltess@gmail.com | [linkedin.com/in/paveltes](https:
 
 ## Profile
 
-Product leader with 10+ years building and scaling digital products at Booking.com, Miro and Nike. Currently leading a GenAI product portfolio for Booking.com's partner ecosystem -- AI-powered search handling 2M+ queries/year, a conversational support agent serving 100K+ sessions/month, and the RAG and knowledge platform underpinning both.
+Product leader with 10+ years building and scaling digital products at Booking.com, Miro and Nike. Currently leading a GenAI product portfolio for Booking.com's partner ecosystem -- AI-powered search for an experience handling 2M+ queries annually, an AI support agent in development for an ecosystem serving 100K+ monthly sessions, and shared retrieval and knowledge capabilities.
 
 Track record of taking products from 0 to 1, expanding into new markets (13 EMEA markets, 200% YoY growth at Nike), and leading cross-functional teams of engineers, ML specialists, designers and content strategists through complex product decisions. Combines product strategy, customer research and experimentation to connect business needs with measurable user outcomes.
 
@@ -20,11 +20,13 @@ Track record of taking products from 0 to 1, expanding into new markets (13 EMEA
 
 **Nov 2025 -- Present | Amsterdam**
 
-* Led AI Smart Search from concept to production rollout on Partner Hub, serving 2M+ partner searches/year. Achieved ~90% Save Rate and 67% engagement rate in initial cohort through 17 prompt iterations and a hybrid semantic + keyword retrieval architecture.
-* Leading development of an end-to-end AI Support Agent for multi-step partner journeys, replacing an external chatbot platform (Kindly) with an in-house conversational system across 100K+ monthly sessions. Defining a 4-pillar measurement framework (reach, engagement, quality, impact) for the transition.
-* Driving RAG v3 -- a new retrieval pipeline using Contextualized Chunk Embeddings, Task-Conditioned Embeddings, smart chunking and rich metadata taxonomy filtering, replacing a front-end scraping system with a SQL-sourced, metadata-enriched architecture.
-* Coordinating cross-team alignment across GenAI, ML engineering, content, FinTech and Voice AI teams on multi-agent orchestration, shared platform capabilities (auth, PII masking, moderation, routing) and agent-to-agent handover protocols.
-* Defined success metrics, evaluation and experimentation approaches for AI products, balancing partner impact with model quality, cost and reliability. Established the first reusable BUI component and ML infrastructure usage for a customer-facing DPE project.
+* Own product strategy and roadmap across AI search, conversational support and shared knowledge capabilities, aligning teams on product sequencing and delivery priorities.
+* Led AI Smart Search from concept to production rollout on Partner Hub, a search experience handling 2M+ partner queries annually, using hybrid semantic and keyword retrieval.
+* Leading development of an end-to-end AI Support Agent for multi-step partner journeys, replacing an external chatbot platform within an ecosystem serving 100K+ monthly sessions.
+* Driving the next generation of the retrieval-augmented generation (RAG) pipeline, using improved chunking, embeddings and metadata filtering to support more relevant, reliable answers and better knowledge freshness.
+* Align GenAI, ML engineering, content, financial technology and voice AI teams on multi-agent orchestration, shared authentication and safety capabilities, and handovers between agents.
+* Define evaluation and experimentation approaches across reach, engagement, quality and impact, balancing partner outcomes with model quality, cost and reliability.
+* Established reusable interface components and use of shared ML infrastructure for partner-facing AI products within Digital Partner Experience.
 
 ### Miro | Product Lead
 
@@ -47,6 +49,10 @@ Track record of taking products from 0 to 1, expanding into new markets (13 EMEA
 
 * Owned regional strategy and roadmap for Nike App, leading a team of three and expanding the product into 13 new EMEA markets with 200% year-on-year growth.
 * Coordinated cross-functional and local market teams on acquisition, regional adaptations and product improvements to support adoption and growth.
+### Nike | Product Owner, Campaign Experience
+
+**Mar 2018 -- Jul 2018**
+
 * Led end-to-end development of Nike's World Cup 2018 campaign platform across UX, content and agency teams. Delivered Nike's top-performing global campaign, recognised with the Global Maxim Award.
 
 ### Nike | Manager, Digital Experience
@@ -77,6 +83,7 @@ Product strategy and roadmaps * GenAI and conversational products * AI search an
 ## Education
 
 **Perm State University (PSU)** -- Business Administration and Management (2011)
+  
 **Perm Modern Humanitarian College** -- Business Administration and Management (2008)
 
 ---
@@ -89,4 +96,4 @@ English: full professional proficiency * Russian: native * Dutch: intermediate
 
 ## Interests
 
-Online gaming * Snowboarding * Singing and guitar ([Metaxy](https://facebook.com/Metaxy)) * Climbing
+Online gaming * Snowboarding * Singing and guitar ([Metaxy](https://soundcloud.com/metaxymusic)) * Climbing
